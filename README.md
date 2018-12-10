@@ -7,3 +7,10 @@ scripts:
     "server": "nodemon server.js",
     "client": "npm start --prefix client",
     "dev": "concurrently \"npm run server\" \"npm run client\""
+
+
+
+
+
+For demo:
+https://enigmatic-reef-20175.herokuapp.com
