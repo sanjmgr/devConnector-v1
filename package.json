@@ -6,6 +6,7 @@
   "main": "server.js",
   "scripts": {
     "client-install": "npm i nstall --prefix client-install",
+    "build": "react-scripts build",
     "start": "node server.js",
     "server": "nodemon server.js",
     "client": "npm start --prefix client",
